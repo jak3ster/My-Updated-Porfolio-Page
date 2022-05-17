@@ -1,0 +1,175 @@
+.navbar,
+.navbar-expand-sm,
+.navbar-light,
+.bg-light {
+    color: #F2EBEC !important;
+    /* background-color: #F2EBEC!important; */
+    background-color: slategray !important;
+}
+
+nav a:hover {
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #F2D0A7;
+    font-size: 1.1rem;
+}
+
+.btn {
+    background-color: lightslategray;
+    border: black;
+    color: whitesmoke;
+}
+
+.btn:hover {
+    background-color: darkslategray;
+    /* color: whitesmoke; */
+}
+
+#home {
+    background: url(../images/negative-space.jpg);
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+#homeMiddle {
+    margin-right: auto;
+    margin-left: 20%;
+    position: absolute;
+    top: 45%;
+}
+
+#hello {
+    color: aliceblue;
+    font-family: monospace, ui-monospace;
+}
+
+#name {
+    color: aliceblue;
+    font-size: 100px;
+    text-transform: capitalize;
+    text-shadow: 4px 4px darkgray;
+    font-family: fantasy, cursive;
+}
+
+#portfolio {
+    /* background: #F2EBEC; */
+    background-color: slategray;
+}
+
+#portfolio a:hover {
+    color: #F2D0A7;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+/* #portfolio a:link {
+    color: #2182BF;
+} */
+
+small {
+    font-style: italic;
+}
+
+.card-title,
+.card-text {
+    padding-left: 1.25rem;
+}
+
+.gitLinks {
+    bottom: 0;
+}
+
+/* .card-body {
+    margin-bottom: 0 !important; 
+} */
+
+h2 {
+    color: aliceblue;
+    font-size: 4rem;
+    font-family: monospace, ui-monospace;
+    text-align: center;
+}
+
+#about {
+    /* background: #56738C; */
+    color: #F2EBEC;
+    background-color: slategray;
+}
+
+#about p {
+    font-size: 16px;
+}
+
+#about img {
+    border-radius: 50%;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Volkhov', serif;
+}
+
+#contact {
+    /* background:#56738C; */
+    font-size: 20px;
+    /* color: #343840; */
+    background-color: slategray;
+}
+
+#contact a {
+    /* color: #F2D0A7; */
+    color: antiquewhite;
+    text-decoration: gray;
+}
+
+#contact a:hover {
+    text-transform: uppercase;
+}
+
+a:link {
+    /* color: #56738C; */
+    text-decoration: none;
+}
+
+a:active {
+    color: #56738C;
+}
+
+a:hover {
+    color: #F2D0A7;
+    text-size-adjust: 2rem;
+}
+
+a:visited {
+    background-color: indianred;
+    /* color: #56738C; */
+}
+
+p, a {
+    font-family: monospace, ui-monospace;
+    font-size: x-large;
+}
+
+/* @media screen and (max-width:992px) {
+    
+} */
+
+/* @media screen and (max-width:768px) {
+
+} */
+
+@media (min-width: 320px) and (max-width: 425px) {
+    #homeMiddle {
+        margin-right: auto;
+        margin-left: 0%;
+        top: 45%;
+    }
+
+    #name {
+        font-size: 66px;
+    }
+}
