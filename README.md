@@ -22,8 +22,8 @@ This is an updated portfolio as part of building toward being employer-competiti
 
 ## Websites
 
-* Github: <https://github.com/jak3ster/My-Updated-Portfolio>
-* Deploayed: <https://jak3ster.github.io/My-Updated-Portfolio>
+* Github: <https://github.com/jak3ster/My-Updated-Porfolio-Page>
+* Deploayed: <https://jak3ster.github.io/My-Updated-Porfolio-Page/>
 
 ## Technologies Used
 
