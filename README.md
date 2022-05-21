@@ -14,7 +14,7 @@ Being part of the web developer community means show casing and sharing projects
 
 1. Download or clone repository
 2. Open the main page (index.html) on your browser to view webpage
-3. On the main page, you can click on the links on top right to go to the other 2 pages (portfolio.html and contact.html) or can open them up separately.
+3. On the main page, you can click on the links on top left to go to the location in the page for portfolio, about and contact
 
 ## Features
 
